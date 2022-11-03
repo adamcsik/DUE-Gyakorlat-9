@@ -1,1 +1,1 @@
-# DUE-Gyakorlat-9
+# A 9. gyakorlat elemei a 09_gyakorlat mappában találatóak 
